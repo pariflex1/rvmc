@@ -19,3 +19,32 @@
 /* Start custom CSS for container, class: .elementor-element-6f89ea2d */.elementor-2890 .elementor-element.elementor-element-6f89ea2d {
   background: linear-gradient(to right, #F8EAEF, #D8EAFB, #E0F7EB);
 }/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Custom Mulish';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://rvmc.in/wp-content/uploads/2023/11/Mulish-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Custom Mulish';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://rvmc.in/wp-content/uploads/2023/11/Mulish-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Custom Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://rvmc.in/wp-content/uploads/2023/11/Mulish-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Custom Mulish';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('http://rvmc.in/wp-content/uploads/2023/11/Mulish-Black.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
