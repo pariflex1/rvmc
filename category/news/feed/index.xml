@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; RVMC</title>
+	<atom:link href="https://rvmc.in/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rvmc.in/</link>
+	<description>Real Value Management Consultations Pvt. Ltd.</description>
+	<lastBuildDate>Sun, 31 Dec 2023 13:19:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://rvmc.in/wp-content/uploads/2023/10/cropped-RVMC-32x32.jpg</url>
+	<title>News &#8211; RVMC</title>
+	<link>https://rvmc.in/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Happy New Year 2024</title>
+		<link>https://rvmc.in/happy-new-year-2024/</link>
+					<comments>https://rvmc.in/happy-new-year-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[Vicky]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 11:54:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://rvmc.in/?p=2304</guid>
+
+					<description><![CDATA[May the coming year be filled with joy, prosperity, and an abundance of positive moments. Let&#8217;s cherish the memories of the past, learn from our experiences, and look forward to a future filled with hope and endless possibilities. Wishing you and your loved ones a year ahead filled with happiness, good health, and the fulfillment [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>May the coming year be filled with joy, prosperity, and an abundance of positive moments. Let&#8217;s cherish the memories of the past, learn from our experiences, and look forward to a future filled with hope and endless possibilities. Wishing you and your loved ones a year ahead filled with happiness, good health, and the fulfillment of your aspirations. Happy New Year 2024!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rvmc.in/happy-new-year-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

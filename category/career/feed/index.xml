@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Career &#8211; RVMC</title>
+	<atom:link href="https://rvmc.in/category/career/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rvmc.in/</link>
+	<description>Real Value Management Consultations Pvt. Ltd.</description>
+	<lastBuildDate>Tue, 30 Jan 2024 07:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://rvmc.in/wp-content/uploads/2023/10/cropped-RVMC-32x32.jpg</url>
+	<title>Career &#8211; RVMC</title>
+	<link>https://rvmc.in/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sales Vacancy</title>
+		<link>https://rvmc.in/sales-vacancy/</link>
+					<comments>https://rvmc.in/sales-vacancy/#respond</comments>
+		
+		<dc:creator><![CDATA[Vicky]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 10:26:54 +0000</pubDate>
+				<category><![CDATA[Career]]></category>
+		<guid isPermaLink="false">https://rvmc.in/?p=2643</guid>
+
+					<description><![CDATA[Need young energetic, male/female for our city sales office and site sales offices at Hansari, Gram Buda, Gram Bhojla and Gram Baratha. Min. graduates, with good communication skills and pleasing personality. Own vehicle preferred. Salary will be the best in the industry. Please post you resume with photograph.]]></description>
+										<content:encoded><![CDATA[
+<p>Need young energetic, male/female for our city sales office and site sales offices at Hansari, Gram Buda, Gram Bhojla and Gram Baratha. Min. graduates, with good communication skills and pleasing personality. Own vehicle preferred. Salary will be the best in the industry. Please post you resume with photograph.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rvmc.in/sales-vacancy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
